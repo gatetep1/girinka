@@ -10,6 +10,7 @@
   <meta name="author" content="">
 
   <title>Girinka Program System</title>
+  <link rel="icon" href="images/cow.jpg" type="image/x-icon" />
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
